@@ -11,3 +11,6 @@ Nama : Rahmad Daniel P N
 Program : IBM Advance AI
 
 Mentor Arifian Saputra
+
+Tech Stack :
+Python
